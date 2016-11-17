@@ -1,0 +1,5 @@
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\Project_Library\Project_Library\bin\Debug\Project_Library.dll
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\Project_Library\Project_Library\bin\Debug\Project_Library.pdb
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\Project_Library\Project_Library\obj\Debug\Project_Library.csprojResolveAssemblyReference.cache
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\Project_Library\Project_Library\obj\Debug\Project_Library.dll
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\Project_Library\Project_Library\obj\Debug\Project_Library.pdb

@@ -1,0 +1,16 @@
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.exe.config
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.csprojResolveAssemblyReference.cache
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.exe
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.pdb
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\bin\Debug\Project_Library.dll
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\bin\Debug\Project_Library.pdb
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.exe
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.pdb
+E:\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.exe.config
+E:\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.exe
+E:\StatisticsProject\StatisticsProject\bin\Debug\StatisticsProject.pdb
+E:\StatisticsProject\StatisticsProject\bin\Debug\Project_Library.dll
+E:\StatisticsProject\StatisticsProject\bin\Debug\Project_Library.pdb
+E:\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.csprojResolveAssemblyReference.cache
+E:\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.exe
+E:\StatisticsProject\StatisticsProject\obj\Debug\StatisticsProject.pdb

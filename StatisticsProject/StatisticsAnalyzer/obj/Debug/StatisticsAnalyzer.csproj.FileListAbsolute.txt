@@ -1,0 +1,35 @@
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe.config
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.pdb
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\Project_Library.dll
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\Project_Library.pdb
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Central_Tendency.resources
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Form1.resources
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Graph_Plotter.resources
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Measure_of_Dispersion.resources
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Properties.Resources.resources
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.exe
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.pdb
+E:\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe.config
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.exe
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.pdb
+E:\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe
+E:\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.pdb
+E:\StatisticsProject\StatisticsAnalyzer\bin\Debug\Project_Library.dll
+E:\StatisticsProject\StatisticsAnalyzer\bin\Debug\Project_Library.pdb
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.csprojResolveAssemblyReference.cache
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Central_Tendency.resources
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Form1.resources
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Graph_Plotter.resources
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Measure_of_Dispersion.resources
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.Properties.Resources.resources
+E:\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe.manifest
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.application
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.exe.manifest
+C:\Users\Iswanahh\Documents\Iswanahh\Programs so far\PROJECT PROPER\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.application
+C:\Users\Iswanahh\Documents\Iswanahh\Statistics\StatisticsProject\StatisticsAnalyzer\bin\Debug\StatisticsAnalyzer.exe.config
+C:\Users\Iswanahh\Documents\Iswanahh\Statistics\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.exe
+C:\Users\Iswanahh\Documents\Iswanahh\Statistics\StatisticsProject\StatisticsAnalyzer\obj\Debug\StatisticsAnalyzer.pdb
